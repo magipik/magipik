@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @magipik
-- 👀 We are interested in coding and vector graphics [vector graphics](https://magipik.com/free-vector))
+- 👀 We are interested in coding and vector graphics [vector graphics](https://magipik.com/free-vector)
 - 📫 How to reach us https://magipik.com
 - ✨ Checkout our [jsfiddle](https://jsfiddle.net/u/magipik)
 
